@@ -1,0 +1,34 @@
+Basic1:
+Found the password in the HTML
+
+Basic2:
+The password file was not uploaded. Just needed to hit submit since the password is not checked against anything.
+
+Basic3:
+Prepended password.php to the url to get the password
+https://www.hackthissite.org/missions/basic/3/ --> https://www.hackthissite.org/missions/basic/3/password.php
+
+Basic4:
+Changed the email address in the html to my email address so that I got the password emailed to me
+
+Basic5:
+Same as previous challenge
+
+Basic6:
+Used the hexadecimal chart. All characters were x amount of spaces away depending on their position
+6 --> 0 poisions away --> 6
+c --> 1 position away --> b
+c --> 2 positions away --> a 
+i --> 3 positions away --> f
+4 --> 4 positions away --> 0
+>  --> 5 positions away --> 9
+6 --> 6 positions away --> 0
+h --> 7 positions away -->  a
+
+Basic7:
+Used the command &&ls to get the list of filenames in the directory. I was then able to open the file in my browser and get the password since it was unencrypted.
+
+
+
+
+![image](https://github.com/sr5864/HackthisSite/assets/71721037/d66984ae-8d71-4437-bccd-a7dfa157ad3f)
